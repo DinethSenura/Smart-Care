@@ -15,7 +15,7 @@ Git repo - https://github.com/DinethSenura/Smart-Care.git
 
 System Overview Diagram 
 
-![image](UI/system overview.png).
+![image](UI/systemoverview.png).
 
 
 All the related UI included in figma.
