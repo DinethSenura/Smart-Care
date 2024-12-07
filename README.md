@@ -61,6 +61,6 @@ Sample UI
 2. Start the app
 
    ```bash
-    npm start start
+    npm start 
    ```
    
