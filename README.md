@@ -2,10 +2,10 @@
 24-25j-311 Research Project
 | Group Member ID | Name  | Research Component |
 |------------------|------------------|------------------|
-| IT21114830  | Sri Harisha P.A.D.T     | Emergency Response System    |
-| IT21272868    | Wickramaarachchi W.A.N.D    | Leveraging Data Analytics To Enhance Leveraging Experience    |
-| IT21272790    | Wijayanayake J.M.A.P    |Developing a Comprehensive Learning Management System With Certificate Verification|
-| IT21330728    | Lokukaluge L.D    | Integrating 3D Modeling and IoT-Based  Enhanced Karate E-Learning Platforms    |
+| IT21114830  | Sri Harisha P.A.D.T     | Emergency Response System |
+| IT21313998    | Rasara S.H.K    | Smart Blood Management |
+| IT21276378    | Kusumsiri B.S.M.D.S    | Ai-Driven Triage System |
+| IT21232886    | Nimsara M.K.C    | Intelligent Resource Management |
 
 Introduction
 
