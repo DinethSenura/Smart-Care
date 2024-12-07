@@ -15,7 +15,7 @@ This study explores using wearable technology and 3D modeling to improve the lea
 Gamification elements, such as rewards and badges, can enhance motivation. 
 The goal is to bridge the gap between virtual and physical training and evaluate the effectiveness of these technologies compared to traditional in-person instruction
 
-Git repo - https://github.com/NavodDeshan/Smart-Karate-E-Learning-System-
+Git repo - https://github.com/DinethSenura/Smart-Care.git
 
 System Overview Diagram 
 
@@ -24,7 +24,7 @@ System Overview Diagram
 
 All the related UI included in figma.
 
-Figma Link - https://www.figma.com/design/QFU398KSya9DnphxMSBoi0/Karate-E-Learning-platform?node-id=0-1&t=teYM1HTtGh5xuXdF-1
+Figma Link - https://www.figma.com/design/7qmNNeZCSOWBiGWyJOw1VF/Untitled?node-id=0-1&t=BdkGjEcSqMZ1h7qc-1
 
 Sample UI
 
