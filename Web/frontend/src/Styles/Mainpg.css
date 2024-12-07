@@ -1,0 +1,141 @@
+/* Main container */
+.Main-section {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Logo in the top-left */
+.logo-container {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 10;
+}
+
+.logo-image {
+  width: 350px; /* Adjust as needed */
+  height: auto;
+}
+
+/* Background container */
+.background-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+/* Top Right Background Color */
+.top-right-color {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 50%;
+  height: 50%;
+  background: linear-gradient(0deg, #216bba, #ffffff);
+  clip-path: polygon(0% 0%, 100% 0%, 100% 100%);
+  z-index: -2;
+}
+
+/* Bottom Left Background Color */
+.bottom-left-color {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 50%;
+  height: 50%;
+  background: linear-gradient(45deg, #ff7b00, #ff007b);
+  clip-path: polygon(0% 0%, 0% 100%, 100% 100%);
+  z-index: -2;
+}
+
+/* Bottom Right Background Color */
+.bottom-right-color {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(45deg, #007AC2, #007AC2);
+  clip-path: polygon(100% -50%, 100% 100%, -50% 100%);
+  z-index: -2;
+}
+
+/* Buttons in the center */
+.buttons-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  z-index: 1;
+  position: relative;
+  top: -330px; /* Adjust for centering */
+  right: 100px;
+}
+
+.square-button {
+  padding: 10px 30px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #000000;
+  border: none;
+  border-radius: 40px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.square-button:hover {
+  background-color: #8c8a8a;
+  transform: scale(1.1);
+}
+
+/* Images container at the bottom */
+.images-container {
+  position: absolute;
+  bottom: 0px;
+  left: 60%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 4;
+}
+
+/* World image (behind) */
+.world-image {
+  width: 1400px; /* Adjust size as needed */
+  height: auto;
+  opacity: 0.4; /* Slightly transparent for a subtle effect */
+  position: absolute;
+  top: 120px;
+  left: -430px;
+  z-index: -1; /* Place behind the main image */
+}
+
+/* Main page image (front) */
+.mainpg-image {
+  width: 550px; /* Adjust size as needed */
+  height: auto;
+  position: relative;
+  bottom: -50px;
+  left: -10px;
+  z-index: 1; /* Place in front of the world image */
+  margin-top: 280px; /* Space above the main image */
+}
+
+.content-center {
+  position: absolute; /* Make it float over other elements */
+  top: 90%; /* Vertically center */
+  left: 55%; /* Horizontally center */
+  transform: translate(-50%, -50%); /* Offset for perfect centering */
+  z-index: 100; /* Bring it in front of other elements */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

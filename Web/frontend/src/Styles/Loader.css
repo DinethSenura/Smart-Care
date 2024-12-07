@@ -1,0 +1,42 @@
+/* Loader.css */
+.bouncing-dots-loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full screen height */
+    background: rgba(255, 255, 255, 0.8);
+  }
+  
+  .bouncing-dots-loader span {
+    width: 9px;
+    height: 9px;
+    margin: 0 5px;
+    background-color: #00529B;
+    border-radius: 10%;
+    animation: bounce 0.6s infinite;
+  }
+  
+  .bouncing-dots-loader span:nth-child(2) {
+    animation-delay: 0.2s;
+  }
+  
+  .bouncing-dots-loader span:nth-child(3) {
+    animation-delay: 0.3s;
+  }
+
+  .bouncing-dots-loader span:nth-child(3) {
+    animation-delay: 0.4s;
+  }
+  
+  @keyframes bounce {
+    0%, 50%, 75%, 100% {
+      transform: scale(0);
+    }
+    40% {
+      transform: scale(1);
+    }
+    40% {
+      transform: scale(1);
+    }
+  }
+  
