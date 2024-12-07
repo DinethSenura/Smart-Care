@@ -9,17 +9,13 @@
 
 Introduction
 
-Traditional Karate training relies on direct interaction and immediate feedback, which are challenging to replicate in an online setting.
-While theoretical content can be effectively taught online, practical skills are harder to convey and maintaining student engagement is crucial. 
-This study explores using wearable technology and 3D modeling to improve the learning experience by offering interactive visualization, real-time feedback, and detailed movement analysis. 
-Gamification elements, such as rewards and badges, can enhance motivation. 
-The goal is to bridge the gap between virtual and physical training and evaluate the effectiveness of these technologies compared to traditional in-person instruction
+SmartCare revolutionizes emergency healthcare in Sri Lanka by addressing critical patient care and resource management challenges. The AI-driven triage system rapidly assesses and prioritizes patients. SmartCare's intelligent resource management uses AI and IoT to optimize hospital resources, predict needs, and dynamically schedule staff to prevent burnout. Geolocation services speed up emergency response, and telemedicine enables instant specialist consultations. For blood management, a real-time dashboard and GPS features streamline donation and distribution, enhancing reliability.
 
 Git repo - https://github.com/DinethSenura/Smart-Care.git
 
 System Overview Diagram 
 
-![image](UI/SystemoverviewDiagram.png).
+![image](UI/systemoverview.png).
 
 
 All the related UI included in figma.
@@ -28,8 +24,8 @@ Figma Link - https://www.figma.com/design/7qmNNeZCSOWBiGWyJOw1VF/Untitled?node-i
 
 Sample UI
 
-![image](UI/figmaUi1.png)
-![image](UI/figmaui3.png)
+![image](UI/Mobile.PNG)
+![image](UI/Web.PNG)
 
 # Mobile
 
