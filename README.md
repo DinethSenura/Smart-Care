@@ -9,7 +9,7 @@
 
 Introduction
 
-SmartCare revolutionizes emergency healthcare in Sri Lanka by addressing critical patient care and resource management challenges. The AI-driven triage system rapidly assesses and prioritizes patients. SmartCare intelligent resource management uses AI and IoT to optimize hospital resources, predict needs, and dynamically schedule staff to prevent burnout. Geolocation services speed up emergency response, and telemedicine enables instant specialist consultations. For blood management, a real-time dashboard and GPS features streamline donation and distribution, enhancing reliability.
+SmartCare revolutionizes emergency healthcare and resource management in Sri Lanka through cutting-edge AI, IoT, and geolocation technologies. It features an AI-driven triage system for rapid patient prioritization, intelligent resource management to optimize hospital operations and prevent staff burnout, geolocation services for swift emergency responses, telemedicine for instant specialist consultations, and a real-time blood management dashboard to streamline donation and distribution. By enhancing efficiency, reliability, and patient outcomes, SmartCare is transforming Sri Lanka's healthcare system.
 
 Git repo - https://github.com/DinethSenura/Smart-Care.git
 
