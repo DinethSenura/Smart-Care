@@ -59,7 +59,7 @@ export default function SignIn() {
 
       <Text style={styles.footerText}>
         Don't have an account?{' '}
-        <Text style={styles.linkText} onPress={() => navigation.navigate('SignUp')}>
+        <Text style={styles.linkText} onPress={() => navigation.navigate('Signup')}>
           Sign Up
         </Text>
       </Text>
