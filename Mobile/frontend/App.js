@@ -17,6 +17,7 @@ import WoundScreen from './App/Pages/Wound'
 import CareersScreen from './App/Pages/Careers'
 import AboutScreen from './App/Pages/About'
 import ContactScreen from './App/Pages/Contact'
+import SignInScreen from './App/Pages/Signin';
 
 const Stack = createStackNavigator();
 
@@ -35,6 +36,7 @@ export default function App() {
         <Stack.Screen name="Careers" component={CareersScreen} />
         <Stack.Screen name="About" component={AboutScreen} />
         <Stack.Screen name="Contact" component={ContactScreen} />
+        <Stack.Screen name="Signin" component={SignInScreen} />
 
       </Stack.Navigator>
     </NavigationContainer>

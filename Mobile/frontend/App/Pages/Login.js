@@ -28,7 +28,7 @@ export default function BackgroundWithImages({ navigation }) {
         {/* Login Button */}
         <TouchableOpacity
           style={[styles.button, styles.loginButton]}
-          onPress={() => navigation.navigate('Home')}
+          onPress={() => navigation.navigate('Signin')}
         >
           <Text style={styles.buttonText}>Login</Text>
         </TouchableOpacity>
